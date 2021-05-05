@@ -1,2 +1,2 @@
 # pokedex
-demo: https://tonguedesdev.github.io/pokedex/
+Demo: https://tonguedesdev.github.io/pokedex/
